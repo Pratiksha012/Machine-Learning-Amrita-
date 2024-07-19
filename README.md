@@ -64,7 +64,6 @@ The notebooks cover a wide range of machine learning techniques, including:
 
 13. **Implementation of Matrix Factorization**
     - Notebook: `Implementation of Matrix Factorization.ipynb`
-    - Dataset: `Matrix factorisation.csv`
 
 14. **Manual Implementation of Classification Metrics**
     - Notebook: `Manual Implementation of Classification Metrics.ipynb`
